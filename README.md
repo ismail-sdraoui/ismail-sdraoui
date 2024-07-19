@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @ismail-sdraoui
-- 👀 I’m interested in game Dvelopement and Web Dev
-- 🌱 I’m currently learning Langue like HTML and css and javascript
-- 💞️ I’m looking to collaborate on website creating projects
-- 📫 How to reach me:please contact on email:
-- gamerismail87@gmail.com
-- Thanks
+👋 Hi, I’m @ismail-sdraoui
+
+👀 I’m interested in Flutter development, game development, and web development.
+
+🌱 I’m currently expanding my skills in HTML, CSS, JavaScript, and enhancing my proficiency in Flutter.
+
+💼 I have experience working with Firebase for backend APIs and integrating them into Flutter applications.
+
+🤝 I’m open to collaborating on Flutter projects, especially those involving game development or web app creation.
+
+📫 You can reach me via email: gamerismail87@gmail.com
+
+Thanks for visiting!
 
 <!---
 ismail-sdraoui/ismail-sdraoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
