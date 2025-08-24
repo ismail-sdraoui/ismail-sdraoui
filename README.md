@@ -1,16 +1,14 @@
-👋 Hi, I’m @ismail-sdraoui
+# Hi, I’m Ismail Sadraoui 👋
 
-👀 I’m interested in Flutter development, game development, and web development.
+I’m a Flutter developer with experience building mobile apps and integrating Firebase for backend functionality.  
+I’m also exploring web and game development to expand my skillset.
 
-🌱 I’m currently expanding my skills in HTML, CSS, JavaScript, and enhancing my proficiency in Flutter.
+**Skills:** Flutter, Dart, Firebase, Hive, SharedPreferences, UI/UX design, HTML, CSS, JavaScript.  
 
-💼 I have experience working with Firebase for backend APIs and integrating them into Flutter applications.
+I’m open to collaborating on app development projects and delivering clean, functional solutions.  
 
-🤝 I’m open to collaborating on Flutter projects, especially those involving game development or web app creation.
+📫 Contact: gamerismail87@gmail.com
 
-📫 You can reach me via email: gamerismail87@gmail.com
-
-Thanks for visiting!
 
 <!---
 ismail-sdraoui/ismail-sdraoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
